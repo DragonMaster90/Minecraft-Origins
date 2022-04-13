@@ -1,0 +1,10 @@
+{
+	"powers": [
+	""
+	],
+	"icon": "minecraft:potion",
+	"order": 10,
+	"impact": 3,
+	"name": "Illusioner",
+	"description": "Magic!"
+}

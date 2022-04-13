@@ -1,0 +1,10 @@
+{
+	"powers": [
+	""
+	],
+	"icon": "minecraft:structure_void",
+	"order": 10,
+	"impact": 3,
+	"name": "Shadow Crawler",
+	"description": "You were once human until you were trapped in an empty, void-like dimension, eventually adapting to it over hundreds of years."
+}

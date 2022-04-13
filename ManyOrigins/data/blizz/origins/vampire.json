@@ -1,0 +1,15 @@
+{
+	"powers": [
+	"blizz:bloodthirsty",
+	"blizz:blooddash",
+	"blizz:timberphobic",
+	"blizz:switch",
+	"blizz:acrobatics",
+	"blizz:usedtothedarkness"
+	],
+	"icon": "minecraft:red_candle",
+	"order": 10,
+	"impact": 3,
+	"name": "Vampire",
+	"description": "Vampires, the dukes of the night. They live on human blood and can use supernatural abilities."
+}

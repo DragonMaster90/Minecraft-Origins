@@ -1,0 +1,11 @@
+{
+   "powers": [
+   	"blizz:blue_skin",
+	"blizz:blizzball"
+   ],
+   "icon": "minecraft:snow_block",
+   "order":10,
+   "impact": 2,
+   "name": "Blizzborn",
+   "description": "The blazeborn's colder cousin."
+}

@@ -1,0 +1,10 @@
+{
+	"powers": [
+	""
+	],
+	"icon": "minecraft:cyan_dye",
+	"order": 10,
+	"impact": 3,
+	"name": "Gravital",
+	"description": "You use gravitational forces to push and pull your foes around the battlefield!"
+}

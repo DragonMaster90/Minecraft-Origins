@@ -1,0 +1,10 @@
+{
+	"powers": [
+	""
+	],
+	"icon": "minecraft:glowstone_dust",
+	"order": 10,
+	"impact": 3,
+	"name": "Fairyborn",
+	"description": "Small mythical creatures that were born to help others."
+}

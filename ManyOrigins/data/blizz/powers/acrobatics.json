@@ -1,0 +1,9 @@
+{
+  "type": "origins:invulnerability",
+  "damage_condition": {
+    "type": "origins:name",
+    "name": "fall"
+  },
+  "name": "Acrobatics",
+  "description": "You never take fall damage, no matter which height you fall."
+}

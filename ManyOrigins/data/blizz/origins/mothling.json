@@ -1,0 +1,17 @@
+{
+	"powers": [
+	"blizz:flight",
+	"blizz:laternlight",
+	"blizz:mothlikebody",
+	"blizz:weakeninglight",
+	"blizz:armorweight",
+	"blizz:mothdiet",
+	"blizz:elytra",
+	"blizz:mothhealth"
+	],
+	"icon": "minecraft:rabbit_hide",
+	"order": 10,
+	"impact": 3,
+	"name": "Mothling",
+	"description": "A mothling is a winged moth-like creature that originally evolved in the taiga biome before adapting and spreading to the rest of the world."
+}

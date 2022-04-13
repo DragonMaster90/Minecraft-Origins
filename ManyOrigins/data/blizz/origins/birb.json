@@ -1,0 +1,10 @@
+{
+	"powers": [
+	""
+	],
+	"icon": "minecraft:chicken",
+	"order": 10,
+	"impact": 3,
+	"name": "Birb",
+	"description": "Birbs are small and very cute. They can also fly and chirp."
+}

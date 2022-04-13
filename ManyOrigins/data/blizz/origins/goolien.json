@@ -1,0 +1,10 @@
+{
+	"powers": [
+	""
+	],
+	"icon": "minecraft:slime_block",
+	"order": 10,
+	"impact": 2,
+	"name": "Goolien",
+	"description": "A gooey alien species that is often confused with their terrestrial slimy cousins."
+}

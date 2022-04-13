@@ -1,0 +1,10 @@
+{
+	"powers": [
+	""
+	],
+	"icon": "minecraft:red_bed",
+	"order": 10,
+	"impact": 1,
+	"name": "Villager",
+	"description": "A peaceful trader."
+}
